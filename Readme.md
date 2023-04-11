@@ -19,8 +19,8 @@ To install the required packages, run the following command:
 
 ```git clone https://github.com/guzfr1ng/Trenderfly ``` </br>
 
-```pip install snscrape csv re
-```
+```pip install req.txt ```
+
 # Usage
 
 To use the script, run the following command in your terminal:
