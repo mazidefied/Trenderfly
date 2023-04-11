@@ -28,7 +28,7 @@ To use the script, run the following command in your terminal:
 ``` python Scrape.py ``` </br>
 You will be prompted to enter the following information:
 
-Search queries (comma-separated)
+Search queries single or multiple (comma-separated)
 
 Year to search from
 
