@@ -1,4 +1,4 @@
-##Trenderfly 
+# Trenderfly 
 
 This Python script uses the snscrape library to scrape Twitter data based on user input search queries, a year to search from, and a number of tweets to scrape. The script extracts various metadata about each tweet, including the user's location, follower and following counts, verification status, source of the tweet, and number of likes, retweets, and replies. The results are saved to a CSV file with the provided filename.
 
