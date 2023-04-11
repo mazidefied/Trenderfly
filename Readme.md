@@ -24,8 +24,8 @@ pip install snscrape csv re
 
 To use the script, run the following command in your terminal:
 
-```git clone https://github.com/guzfr1ng/Trenderfly ```
-``` python Scrape.py ```
+```git clone https://github.com/guzfr1ng/Trenderfly ``` </br>
+``` python Scrape.py ``` </br>
 You will be prompted to enter the following information:
 
 Search queries (comma-separated)
