@@ -42,7 +42,7 @@ Once you enter this information, the script will start scraping Twitter data bas
 
 
 
-Contributing
+#Contributing
 
 If you would like to contribute to this project, please open an issue or submit a pull request on GitHub.
 
